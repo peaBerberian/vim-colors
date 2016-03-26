@@ -7,7 +7,7 @@ if version > 580
 endif
 
 set t_Co=256
-let g:colors_name = "gogogadgeto"
+let g:colors_name = "gigilamoroso"
 
 "General
 hi Comment      guibg=none guifg=none gui=none ctermfg=245 ctermbg=none cterm=none
