@@ -11,6 +11,7 @@ let g:colors_name = "gigilamoroso"
 
 "General
 hi Comment      ctermfg=245 ctermbg=none cterm=none
+hi Ignore       ctermfg=246 ctermbg=none cterm=none
 hi Todo         ctermfg=28 ctermbg=234 cterm=none
 hi Keyword      ctermfg=106 ctermbg=none cterm=none
 hi MatchParen   ctermfg=238 ctermbg=75 cterm=none
